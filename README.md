@@ -1,8 +1,8 @@
-# 🎗️ Breast Cancer Predictor
+# Breast Cancer Predictor
 
 A Streamlit web app that predicts whether a breast tumor is **benign** or **malignant** using a Logistic Regression model trained on the Wisconsin Breast Cancer dataset.
 
-> ⚠️ For educational purposes only. Not a medical diagnostic tool.
+> For educational purposes only. Not a medical diagnostic tool.
 
 ## Features
 
@@ -56,6 +56,3 @@ To retrain: edit `model_training.ipynb`, run all cells to regenerate the `.pkl` 
 
 [Wisconsin Breast Cancer Diagnostic Dataset](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) — 569 samples, 30 features computed from digitized FNA images.
 
-## License
-
-[MIT](LICENSE)
